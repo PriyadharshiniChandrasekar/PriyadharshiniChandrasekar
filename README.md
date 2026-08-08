@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="tel:+918220210971">
+  
     <img src="https://img.shields.io/badge/Phone-%2B91%208220210971-green?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:priyadharshini.c.cse@gmail.com">
