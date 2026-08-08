@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Priyadharshini C 👋</h1>
 
 <p align="center">
-  <img src="profile.png" width="150" height="150" alt="Priyadharshini C" />
 </p>
 
 <h3 align="center">
