@@ -9,7 +9,7 @@
 
 <p align="center">
   
-    <img src="https://img.shields.io/badge/Phone-%2B91%208220210971-green?style=flat&logo=whatsapp&logoColor=white" />
+    
   </a>
   <a href="mailto:priyadharshini.c.cse@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
