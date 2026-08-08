@@ -87,7 +87,7 @@ An AI-powered healthcare application that analyzes prescription details and send
 
 📅 **22.12.2025 – 25.02.2026**
 
-Gained hands-on experience in developing software applications that address real-world problems, while learning the software development process, problem-solving techniques, and practical application of programming concepts.
+Gained hands-on experience in developing software applications that address real-world problems, while learning the software development, problem-solving techniques and practical application of programming concepts.
 
 ### 💼 Full Stack Web Development Intern — SDLC
 
