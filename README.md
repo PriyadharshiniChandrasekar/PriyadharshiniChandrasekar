@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 * 🎓 Pursuing **B.E. in Computer Science and Engineering** at V.S.B. Engineering College, Karur (2023 – 2027) — CGPA: **8.61**
-* 💻 Passionate about **software development**, **web technologies**, and **problem-solving**
+* 💻 Passionate about **software development**, **web technologies** and **problem-solving**
 * 🌱 Currently exploring **full-stack development** and **AI-powered applications**
 * 🏢 Completed **Virtual Internship 6.0** at **Infosys Springboard**
 * 📫 Reach me at: **[priyadharshini.c.cse@gmail.com](mailto:priyadharshini.c.cse@gmail.com)**
