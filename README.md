@@ -41,8 +41,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black" />
+  
 </p>
 
 ### 🌐 Web Technologies
@@ -53,19 +52,8 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
-### ⚙️ Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white" />
-</p>
 
-### 🗄️ Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-</p>
 
 ### 🔧 Tools & Platforms
 
@@ -140,5 +128,5 @@ Gained practical experience in developing full-stack software applications by wo
 </p>
 
 <p align="center">
-  <i>Always open to learning, collaborating, and building things that matter 🚀</i>
+  <i>Always open to learning, collaborating and building things that matter 🚀</i>
 </p>
