@@ -49,7 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/js-61DAFB?style=flat&logo=react&logoColor=black" />
 </p>
 
 
