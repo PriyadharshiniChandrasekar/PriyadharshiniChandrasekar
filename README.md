@@ -107,13 +107,6 @@ Gained practical experience in developing full-stack software applications by wo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyadharshiniChandrasekar&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
 
 
 ---
