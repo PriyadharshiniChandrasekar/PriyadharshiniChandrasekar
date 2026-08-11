@@ -78,7 +78,7 @@ A smart agriculture solution using **blockchain technology** to ensure secure, t
 
 ### 💊 PrescriptAI – Prescription Reminder System
 
-An AI-powered healthcare application that analyzes prescription details and sends personalized medication reminders to help users stay on track with their schedules.
+An AI-powered healthcare application that analyzes prescription details and displays personalized medication reminders to help users stay on track with their schedules.
 
 **Technologies:** `HTML` `CSS` `JavaScript` `Python (Flask)` `SQLite` `Groq API`
 
